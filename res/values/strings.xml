@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, ArcMenuActivity!</string>
+    <string name="app_name">Arc Menu Demo</string>
+    <string name="btn1">Long Click On Me</string>
+    <string name="btn2">Click On Me</string>
+    
+    <!-- Arc menu items -->
+    <string name="edit">Edit</string>
+    <string name="reset">Reset</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+</resources>
